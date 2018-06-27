@@ -1,2 +1,2 @@
 # NU_git_intro
-Test repo as an introduction to git.
+This is a test repository working with Adam Miller because he is running this lecture.
